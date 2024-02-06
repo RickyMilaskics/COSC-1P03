@@ -1,0 +1,4 @@
+111111	Fred Flintstone	123.4	234.5
+222222	Barney Rubble	234.5	333.3
+333333	Homer Simpson	345.6	1345.6
+444444	Wile E Coyote	0.0	1.0

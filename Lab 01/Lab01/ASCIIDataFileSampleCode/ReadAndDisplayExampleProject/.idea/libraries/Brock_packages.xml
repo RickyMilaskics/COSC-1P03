@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Brock_packages">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Brock_packages" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../Brock_packages/Documentation" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Brock_packages" recursive="false" />
+  </library>
+</component>

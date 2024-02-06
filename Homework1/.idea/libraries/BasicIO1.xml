@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BasicIO1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Brock packages library thing/BasicIO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
